@@ -19,7 +19,7 @@
         <spring-boot.version>2.0.6.RELEASE</spring-boot.version>
         <spring-version>5.0.10</spring-version>
         <spring-cloud-netflix.version>2.0.0.RELEASE</spring-cloud-netflix.version>
-        <spring-cloud-gateway.version>2.0.0.RELEASE</spring-cloud-gateway.version>
+        <spring-cloud-gateway.version>3.0.7</spring-cloud-gateway.version>
         <spring-cloud-openfeign.version>2.0.0.RELEASE</spring-cloud-openfeign.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
         <!-- guava.version为了支持springfox2.9.2, spring2.9.2可以禁用"try it out" -->
